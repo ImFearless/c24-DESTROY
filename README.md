@@ -1,2 +1,2 @@
-# c24-DESTROY
-U have to destroy EVERYTHING
+# p5.play-boilerplate
+Boiler plate for p5.play
